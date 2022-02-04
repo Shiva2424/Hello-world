@@ -1,3 +1,9 @@
 HYATT
 MAMA
+<<<<<<< Updated upstream
 GLK
+=======
+GLK
+Udipi
+chnaged by feature
+>>>>>>> Stashed changes
